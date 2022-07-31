@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 computer engineering student and back-end developer
+- 🔭  back-end developer
 - 🌱 currently learning javascript and node.js
--  I have strong knowledge of Java
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
